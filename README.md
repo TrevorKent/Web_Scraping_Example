@@ -1,4 +1,4 @@
-!# Web_Scrapping_PythonApp
+# Web_Scrapping_PythonApp
 Web scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
 
 # Scrape and Append Data to Dictionary
